@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/everhad/cwac-saferoom.svg)](https://jitpack.io/#everhad/cwac-saferoom)
+
 # CWAC-SafeRoom: A Room<->SQLCipher for Android Bridge
 
 This project implements the `Support...` series of classes and interfaces
